@@ -1,0 +1,12 @@
+
+.icon-alarmas:before { content: '\e800'; } /* '' */
+.icon-inicio:before { content: '\e801'; } /* '' */
+.icon-usuario:before { content: '\e802'; } /* '' */
+.icon-star:before { content: '\e803'; } /* '' */
+.icon-corazon:before { content: '\e804'; } /* '' */
+.icon-up-open:before { content: '\e805'; } /* '' */
+.icon-export:before { content: '\e806'; } /* '' */
+.icon-subir:before { content: '\f02f'; } /* '' */
+.icon-menu:before { content: '\f0c9'; } /* '' */
+.icon-historial:before { content: '\f252'; } /* '' */
+.icon-tendencias:before { content: '\f525'; } /* '' */
